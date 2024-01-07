@@ -117,3 +117,5 @@ func addParseTimeParam(input string) (string, error) {
 	returnUrl = strings.TrimPrefix(returnUrl, dummyScheme)
 	return returnUrl, nil
 }
+
+//https://github.com/iskandarovshaxzod/learn-cicd-starter/actions/workflows/ci.yml/badge.svg
